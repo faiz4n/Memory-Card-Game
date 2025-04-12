@@ -2,8 +2,6 @@
 
 A fast-paced memory card game built with HTML, CSS, and JavaScript. Flip cards, match pairs, beat the clock—and look cool while doing it.
 
-![Game Preview](./screenshot.png) <!-- You can replace this with an actual screenshot path -->
-
 ---
 
 ## 🔥 Features
