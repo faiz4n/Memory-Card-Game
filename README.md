@@ -1,29 +1,45 @@
-# Memory-Card-Game
-A classic memory matching game built with vanilla HTML, CSS, and JavaScript. Flip the cards to reveal emojis, and try to match all the pairs using your memory skills! 🔍🧠
+# 🧠 Memory Match
 
-💡 Features
-Emoji-based card matching 🃏
+A fast-paced memory card game built with HTML, CSS, and JavaScript. Flip cards, match pairs, beat the clock—and look cool while doing it.
 
-Shuffled card layout every game 🔀
+![Game Preview](./screenshot.png) <!-- You can replace this with an actual screenshot path -->
 
-Smooth reveal and reset transitions 🎯
+---
 
-Lock mechanism to prevent wild clicking 🛑
+## 🔥 Features
 
-Simple, responsive design
+- 🎴 **Flip & Match Logic** – Reveal hidden emojis and test your memory.
+- ⏱️ **60-Second Timer** – Race against the clock.
+- 🔢 **Flip Counter** – Counts your moves. Less flips = more flex.
+- 🟢 **Card Match Animation** – Matched cards get a stylish green glow.
+- 📱 **Mobile Friendly** – Responsive and optimized for all screen sizes.
+- ❄️ **Glassmorphism UI** – Frosted-glass aesthetics with soft shadows and smooth transitions.
+- 🔁 **Reset Button** – Restart anytime if your brain fumbles.
 
-🚀 How to Play
-Click any card to reveal the emoji.
+---
 
-Try to find its matching pair.
+## 🎮 How to Play
 
-Match all pairs to win the game.
+1. Tap a card to flip it.
+2. Try to find its matching pair.
+3. Match all the cards before time runs out!
+4. Celebrate your massive brain 🧠 or cry in 8-bit sadness.
 
-Refresh or click Reset to play again!
+---
 
-🛠️ Tech Stack
-HTML
+## 🛠️ Tech Stack
 
-CSS
+- HTML5
+- CSS3 (Flexbox, Media Queries, Glassmorphism)
+- Vanilla JavaScript
 
-JavaScript (Vanilla)
+---
+
+## 🚀 Getting Started
+
+Clone the repo and start flipping!
+
+```bash
+git clone https://github.com/yourusername/memory-match.git
+cd memory-match
+open index.html
