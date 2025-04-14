@@ -17,7 +17,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background: radial-gradient(circle at top left, #1e3c72, #2a5298);
+    background: linear-gradient(to right, #0f4b6e, #2a6f8f);
 }
 main{
     display: flex;
